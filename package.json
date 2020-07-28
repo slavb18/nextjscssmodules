@@ -1,0 +1,27 @@
+{
+  "name": "nextjscssmodules",
+  "version": "1.0.0",
+  "description": "css modules issue",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.5.1-canary.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavb18/nextjscssmodules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavb18/nextjscssmodules/issues"
+  },
+  "homepage": "https://github.com/slavb18/nextjscssmodules#readme"
+}
