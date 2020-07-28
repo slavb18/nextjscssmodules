@@ -5,8 +5,13 @@
   "main": "index.js",
   "dependencies": {
     "next": "^9.5.1-canary.0",
+    "next-compose-plugins": "^2.2.0",
+    "next-transpile-modules": "^4.0.0",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "uniforms": "^3.0.0-rc.0",
+    "uniforms-bridge-json-schema": "^3.0.0-rc.0",
+    "uniforms-semantic": "^3.0.0-rc.0"
   },
   "devDependencies": {},
   "scripts": {
